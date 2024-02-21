@@ -3,7 +3,7 @@
 
 The objective of the project titled "EEG-Based Emotion Classification Using Deep Neural Networks" is to develop a deep learning model capable of accurately classifying emotions based on EEG (Electroencephalography) signals. EEG signals are recordings of electrical activity along the scalp, which can provide insights into cognitive and emotional states. By leveraging deep neural networks, the project aims to analyze EEG data and classify emotions into three categories: NEGATIVE, NEUTRAL, and POSITIVE.
 
-Why are we doing this project?
+**Why are we doing this project?**
 
 Understanding Emotions: Emotions play a crucial role in human behavior and decision-making. By accurately classifying emotions, we can gain insights into human cognition and behavior, which can be valuable in various fields such as psychology, neuroscience, and human-computer interaction.
 
@@ -13,7 +13,7 @@ Human-Computer Interaction: Emotion classification can enhance human-computer in
 
 Research and Innovation: Developing accurate emotion classification models using EEG data contributes to ongoing research in the fields of neuroscience, affective computing, and machine learning. It opens avenues for exploring new techniques and algorithms for analyzing complex brain signals.
 
-Uses and Outcome:
+**Uses and Outcome:**
 
 Diagnostic Tool: The developed model can serve as a diagnostic tool in clinical settings to assist healthcare professionals in assessing patients' emotional states and identifying potential mood disorders or mental health issues.
 
