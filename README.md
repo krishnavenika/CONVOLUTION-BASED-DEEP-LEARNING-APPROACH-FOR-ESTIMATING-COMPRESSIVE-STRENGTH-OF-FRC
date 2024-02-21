@@ -1,7 +1,7 @@
 # CONVOLUTION-BASED-DEEP-LEARNING-APPROACH-FOR-ESTIMATING-COMPRESSIVE-STRENGTH-OF-FRC
 
 1. **Understanding My Project Goal**:
-   - I'm worked on a project aiming to predict the compressive strength of fiber reinforced concrete at elevated temperatures. This prediction is crucial for understanding how concrete behaves under different conditions, which is valuable in construction and engineering.
+   - I worked on a project aiming to predict the compressive strength of fiber reinforced concrete at elevated temperatures. This prediction is crucial for understanding how concrete behaves under different conditions, which is valuable in construction and engineering.
 
 2. **Setting Up My Project**:
    - I've organized my project into different parts, each serving a specific purpose:
