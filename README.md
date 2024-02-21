@@ -1,5 +1,5 @@
 # CONVOLUTION-BASED-DEEP-LEARNING-APPROACH-FOR-ESTIMATING-COMPRESSIVE-STRENGTH-OF-FRC
-Project Objective:
+### Project Objective:
 
 The objective of the project titled "EEG-Based Emotion Classification Using Deep Neural Networks" is to develop a deep learning model capable of accurately classifying emotions based on EEG (Electroencephalography) signals. EEG signals are recordings of electrical activity along the scalp, which can provide insights into cognitive and emotional states. By leveraging deep neural networks, the project aims to analyze EEG data and classify emotions into three categories: NEGATIVE, NEUTRAL, and POSITIVE.
 
